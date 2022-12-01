@@ -2,8 +2,6 @@
   <p>Registration Form</p>
 </h1>
 
-## ✨ Final Project
-
 <h1 align="center">
   <img src="./assets/img/screenshots/form__1.gif" />
   <a href="https://cutekitten001.github.io/formulario_cadastro/" target="_blank">Demo</a>
@@ -17,23 +15,23 @@ This is a very simple and **responsive registration form** website
 
 <br>
 
----
-
 ## 🚀 Technologies and Tools
 
-<a>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
-<a>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
-<a>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</a>
+<p align="left">
+  <a>
+    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+
+  <a>
+    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+
+  <a>
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  </a>
+</p>
 
 <br>
-
----
 
 ## 🌱 Contributing
 
@@ -49,15 +47,11 @@ This is a very simple and **responsive registration form** website
 
 <br>
 
----
-
 ## 📑 License
 
 This project is under the MIT license. See the file [LICENSE](url) for more details.
 
 <br>
-
----
 
 ## 🟣 Credits
 
