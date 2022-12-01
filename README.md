@@ -49,7 +49,7 @@ This is a very simple and **responsive registration form** website
 
 ## 📑 License
 
-This project is under the MIT license. See the file [LICENSE](url) for more details.
+This project is under the MIT license. See the file [LICENSE](https://github.com/cutekitten001/formulario_cadastro/blob/main/LICENSE) for more details.
 
 <br>
 
