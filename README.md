@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <img src="./assets/img/screenshots/form__1.gif" />
-  <a href="https://cutekitten001.github.io/formulario_cadastro/">Demo</a>
+  <a href="https://cutekitten001.github.io/formulario_cadastro/" target="_blank">Demo</a>
 </h1>
 
 <br>
